@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "396798123717",
+    "project_id": "oflaza-900fe",
+    "storage_bucket": "oflaza-900fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396798123717:android:b18700ef016488400f5aac",
+        "android_client_info": {
+          "package_name": "com.example.commerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396798123717-aegm7ss1vsv7c8ci4k2dnmlt2fjj5vgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.commerceapp",
+            "certificate_hash": "ad85a5eb17dc43848583425433b831aca9810450"
+          }
+        },
+        {
+          "client_id": "396798123717-o1cta3dahgpcnqdh96deb3s8v17ml7q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZujfCDgnE_AMlS1RJgsktHY-4Ab2kuMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396798123717-o1cta3dahgpcnqdh96deb3s8v17ml7q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
